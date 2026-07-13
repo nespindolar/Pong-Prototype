@@ -18,7 +18,7 @@ Classic pong prototype with custom player and enemy AI behavior.
 
 ## Documents
 
-📑: [Documents](docs) associated to future develpment:
+📑: [Documents](docs) associated to future development:
 
 - Game Design Document with possible new features.
 - Power interaction chart for new player power ups.
