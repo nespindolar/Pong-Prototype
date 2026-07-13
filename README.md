@@ -9,8 +9,8 @@ Features:
 - Basic sound effects.
 
 <p align="center">
-  <img src="images/pong_prototype_01.png" width="500">
-  <img src="images/pong_prototype_03.png" width="500">
+  <img src="images/pong_prototype_01.png" width="300">
+  <img src="images/pong_prototype_03.png" width="300">
 </p>
 
 ⬇️: [Downloadable build](build)
