@@ -18,7 +18,7 @@ Classic pong prototype with custom player and enemy AI behavior.
 
 ## Dowonloads and Game Documents
 
-[Downloadable build](build)
+⬇️: [Downloadable build](build)
 
-[Documents](docs)
+📑: [Documents](docs)
 
