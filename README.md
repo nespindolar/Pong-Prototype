@@ -9,5 +9,7 @@ Features:
 - Basic sound effects.
 
 ![Downloadable build](build)
-![Screenshots](images/pong_prototype_01.png)
 
+<p align="center">
+  <img src="images/pong_prototype_01.png" width="700" alt="Pantalla principal">
+</p>
