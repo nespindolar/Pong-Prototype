@@ -10,9 +10,6 @@ Features:
 
 <p align="center">
   <img src="images/pong_prototype_01.png" width="500">
-</p>
-
-<p align="center">
   <img src="images/pong_prototype_03.png" width="500">
 </p>
 
