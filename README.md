@@ -22,3 +22,7 @@ Classic pong prototype with custom player and enemy AI behavior.
 
 📑: [Documents](docs)
 
+- Game Design Document with possible new feature.
+- Power interaction chart for new player power ups.
+
+
