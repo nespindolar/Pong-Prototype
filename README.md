@@ -9,5 +9,5 @@ Features:
 - Basic sound effects.
 
 ![Downloadable build](build)
-![Screenshots](images)
+![Screenshots](images/pong_prototype_01.png)
 
