@@ -1,7 +1,7 @@
 # Pong-Prototype
 Classic pong prototype with custom player and enemy AI behavior
 
-# Features
+## Features
 
 - P1 vs P2 mode.
 - P1 vs CPU mode.
