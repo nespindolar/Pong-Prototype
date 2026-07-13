@@ -8,8 +8,12 @@ Features:
 - Start and pause menus.
 - Basic sound effects.
 
-![Downloadable build](build)
+<p align="center">
+  <img src="images/pong_prototype_01.png" width="500">
+</p>
 
 <p align="center">
-  <img src="images/pong_prototype_01.png" width="700" alt="Pantalla principal">
+  <img src="images/pong_prototype_03.png" width="500">
 </p>
+
+⬇️: [Downloadable build](build)
